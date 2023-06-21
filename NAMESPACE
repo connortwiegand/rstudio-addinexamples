@@ -2,6 +2,7 @@
 
 export(findAndReplaceAddin)
 export(insertInAddin)
+export(twowaypipeInAddin)
 export(subsetAddin)
 import(formatR)
 import(miniUI)
